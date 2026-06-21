@@ -224,4 +224,4 @@ This project demonstrates practical experience in:
 
 ✅ Complete
 
-Portfolio Project for Data Analyst Role
+Resume Project — Data Analyst Role Application
